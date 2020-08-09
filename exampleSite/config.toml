@@ -1,5 +1,5 @@
 baseURL = "https://oziminsky.netlify.app/"
-disableLanguages = []
+disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
